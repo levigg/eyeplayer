@@ -1,0 +1,20 @@
+﻿<Window x:Class="Eyeplayer.PausePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PausePage" Background="{DynamicResource imgMenuBg}" WindowStyle="None"
+        WindowState="Maximized" AllowsTransparency="True"  Loaded="Window_Loaded" Closing="Window_Closing" 
+        >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="6*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="BtnleftClick" Grid.Row="1" Grid.Column="1"  Style="{DynamicResource styleLock}" MouseEnter="BtnleftClick_MouseEnter" MouseLeave="BtnleftClick_MouseLeave" Click="BtnleftClick_Click"/>
+    </Grid>
+</Window>

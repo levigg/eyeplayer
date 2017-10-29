@@ -1,0 +1,967 @@
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Language\Chinese_T.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Language\Chinese_T.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.0\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Language\Chinese_T.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Language\Chinese_T.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.1\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-vocabulary.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-vocabulary.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhCN.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhCN.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.2\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhCN.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-vocabulary.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhCN.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-index.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW-vocabulary.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\config\zhTW.csv
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .3\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .4 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Jay Lin\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe.config
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.exe
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.pdb
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.dll
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\TobiiGazeCore32.dll
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\DriverInstaller.exe
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\click.mp3
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\open.mp3
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Sounds\help.mp3
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.cat
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Driver\arduino.inf
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.exe
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Eyeplayer.pdb
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.dll
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.dll
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\EyeXFramework.pdb
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\bin\x86\Release\Tobii.Gaze.Core.Net.xml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csprojResolveAssemblyReference.cache
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\en-US.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-CN.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-HK.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Language\zh-TW.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.cache
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_MarkupCompile.lref
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.baml
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.g.resources
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.Properties.Resources.resources
+C:\Users\Levi\Desktop\CODE\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer.csproj.GenerateResource.Cache

@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{71E5C2F5-643C-48B7-B6AE-CF239E552888}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Eyeplayer</RootNamespace>
+    <AssemblyName>Eyeplayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.4.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActionCommand.cs" />
+    <Compile Include="Calibration.xaml.cs">
+      <DependentUpon>Calibration.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CalibrationViewModel.cs" />
+    <Compile Include="CheckSerialNumber.cs" />
+    <Compile Include="Click.xaml.cs">
+      <DependentUpon>Click.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Click_visualKeyborad.xaml.cs">
+      <DependentUpon>Click_visualKeyborad.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControlSetting.cs" />
+    <Compile Include="CopyPage.xaml.cs">
+      <DependentUpon>CopyPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DelectFullScreenApp.cs" />
+    <Compile Include="EnumDisplayNameConverter.cs" />
+    <Compile Include="ICalibrationViewModel.cs" />
+    <Compile Include="PausePage.xaml.cs">
+      <DependentUpon>PausePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PiePiece.cs" />
+    <Compile Include="ScalingConverter.cs" />
+    <Compile Include="SetBackLight.cs" />
+    <Compile Include="Setting.xaml.cs">
+      <DependentUpon>Setting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StayResidentFunction.xaml.cs">
+      <DependentUpon>StayResidentFunction.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StayResidentPaste.xaml.cs">
+      <DependentUpon>StayResidentPaste.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TextEdit.xaml.cs">
+      <DependentUpon>TextEdit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TextSpeak.xaml.cs">
+      <DependentUpon>TextSpeak.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TextSpeak_symbol.xaml.cs">
+      <DependentUpon>TextSpeak_symbol.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TextToSpeech.cs" />
+    <Compile Include="TimeZoneInfo.cs" />
+    <Compile Include="VisualKeyboardCapture.xaml.cs">
+      <DependentUpon>VisualKeyboardCapture.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="connectEyeTracker.cs" />
+    <Compile Include="CursorControl.xaml.cs">
+      <DependentUpon>CursorControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="KeyBoardHook\KeyboardHook.cs" />
+    <Compile Include="KeyBoardHook\MouseHook.cs" />
+    <Compile Include="KeyBoardHook\NativeContansts.cs" />
+    <Compile Include="KeyBoardHook\NativeMethods.cs" />
+    <Compile Include="KeyBoardHook\NativeStructs.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <EmbeddedResource Include="config\zhCN.csv" />
+    <EmbeddedResource Include="config\zhTW-index.csv" />
+    <EmbeddedResource Include="config\zhTW-vocabulary.csv" />
+    <EmbeddedResource Include="config\zhTW.csv" />
+    <EmbeddedResource Include="config\zhHK.csv" />
+    <None Include="Driver\arduino.cat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Driver\arduino.inf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="Driver\DriverInstaller.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sounds\click.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sounds\open.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Tobii.Gaze.Core.Net.dll" />
+    <Content Include="TobiiGazeCore32.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="lib\x64\EyeXFramework.dll" />
+    <Content Include="lib\x64\EyeXFramework.pdb" />
+    <Content Include="lib\x86\AForge.Video.DirectShow.dll" />
+    <Content Include="lib\x86\AForge.Video.dll" />
+    <Content Include="lib\x86\AForge.Video.FFMPEG.dll" />
+    <Content Include="lib\x86\AForge.Video.Kinect.dll" />
+    <Content Include="lib\x86\AForge.Video.VFW.dll" />
+    <Content Include="lib\x86\AForge.Video.Ximea.dll" />
+    <Content Include="Sounds\help.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Tobii.EyeX.Client.Net20.dll" />
+    <Content Include="lib\x64\Tobii.EyeX.Client.dll" />
+    <Content Include="lib\x64\Tobii.EyeX.Client.Net20.dll" />
+    <Content Include="lib\x86\EyeXFramework.dll" />
+    <Content Include="lib\x86\EyeXFramework.pdb" />
+    <Content Include="lib\x86\Tobii.EyeX.Client.dll" />
+    <Content Include="lib\x86\Tobii.EyeX.Client.Net20.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EyeXFramework\EyeXFramework.csproj">
+      <Project>{c9bbfbac-fd0f-46de-843f-f3620bf79dc2}</Project>
+      <Name>EyeXFramework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <ReferencePath Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\EyeXFramework\bin\x86\Release\EyeXFramework.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\PresentationCore.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\PresentationFramework.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.DataSetExtensions.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Management.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Speech.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xaml.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.Linq.dll" />
+    <ReferencePath Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\Tobii.EyeX.Client.Net20.dll" />
+    <ReferencePath Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\Tobii.Gaze.Core.Net.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\WindowsBase.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Calibration.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Click_visualKeyborad.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CopyPage.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\CursorControl.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\MainWindow.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\PausePage.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Setting.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentFunction.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\StayResidentPaste.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextEdit.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\TextSpeak_symbol.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\VisualKeyboardCapture.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\App.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\Eyeplayer_Content.g.cs" />
+    <Compile Include="D:\Jay's Data\Dropbox\Projects\[EyePlayer]\EyePlayer v1.4 .5 .1(交接)\Eyeplayer\Eyeplayer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs" />
+  </ItemGroup>
+</Project>

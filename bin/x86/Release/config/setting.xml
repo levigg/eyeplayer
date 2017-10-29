@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--System Setting-->
+<SystemConfiguration>
+  <!--點選速度：600~4200ms-->
+  <clickSpeed Value="1200" />
+  <!--顯示返回按鈕-->
+  <showBackMenu Value="true" />
+  <!--實體按鈕-->
+  <phyicalButtonMode Value="false" />
+  <!--進入校正時間-->
+  <RecalibrateTime Value="3500" />
+  <!--CursorType-->
+  <CursorType Value="false" />
+  <!--Close computer-->
+</SystemConfiguration>

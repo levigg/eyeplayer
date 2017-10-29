@@ -1,0 +1,91 @@
+﻿<Window x:Class="Eyeplayer.TextSpeak_symbol"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextSpeak_symbol" 
+        WindowStyle="None" WindowState="Maximized" Background="#FF2F2E3C" Loaded="Window_Loaded" Closing="Window_Closing" 
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="95*"/>
+            <RowDefinition Height="84*"/>
+            <RowDefinition Height="348*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="10,10,10,0" x:Name="gridZone0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="123*"/>
+                <ColumnDefinition Width="25*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="showString"  Grid.Column="0" Grid.Row="0" Margin="3" Style="{DynamicResource styleShowString}" HorizontalContentAlignment="Left" />
+            <ScrollViewer x:Name="textScrollView" Grid.Column="0" Grid.Row="0" Margin="3" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Background="White" >
+                <Label x:Name="strLab" Grid.Column="0" Grid.Row="0" Margin="3" FontFamily="Verdana" HorizontalAlignment="Left" VerticalAlignment="Center" />
+            </ScrollViewer>
+            <Button x:Name="btnBack" Grid.Column="1" Grid.Row="0" Margin="3" Style="{DynamicResource styleBack}" />
+            <!--<Button x:Name="btnSpeak" Grid.Column="2" Grid.Row="0" Margin="3" Style="{DynamicResource styleTextSpeak}" />-->
+        </Grid>
+        <Grid Grid.Row="1" Margin="13,3" x:Name="gridZone1" Background="#FF1C1A1B">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btnWord_0" Grid.Column="0" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_1" Grid.Column="1" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_2" Grid.Column="2" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_3" Grid.Column="3" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_4" Grid.Column="4" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_5" Grid.Column="5" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_6" Grid.Column="6" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_7" Grid.Column="7" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+            <Button x:Name="btnWord_8" Grid.Column="8" Style="{DynamicResource styleBTN_Lit}" BorderThickness="0"/>
+        </Grid>
+
+        <Grid Grid.Row="2" Margin="10,0,10,12" x:Name="gridZone2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="124*"/>
+                <ColumnDefinition Width="123*"/>
+                <ColumnDefinition Width="123*"/>
+                <ColumnDefinition Width="123*"/>
+                <ColumnDefinition Width="123*"/>
+                <ColumnDefinition Width="124*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="btnBackMenu" Content="{DynamicResource strMenu}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="0" Grid.Row="3" Margin="3"/>
+            <Button x:Name="btnSymbol_usual" Content="{DynamicResource strSymbol}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="5" Grid.Row="1" Margin="3"/>
+            <Button x:Name="btnSpeak" Content="{DynamicResource strSpeak}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="0" Grid.Row="0" Margin="3"/>
+            <Button x:Name="btnClear" Content="{DynamicResource strClear}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="5" Grid.Row="3" Margin="3"/>
+            <Button x:Name="btnCopy" Content="{DynamicResource strCopy}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="0" Grid.Row="2" Margin="3"/>
+            <Button x:Name="btnNumber" Content="{DynamicResource strNumber}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="5" Grid.Row="0" Margin="3"/>
+            <Button x:Name="btnEnglish" Content="{DynamicResource strTC-Eng}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="5" Grid.Row="2" Margin="3"/>
+            <Button x:Name="btnSearch" Content="{DynamicResource strSearch}" Style="{DynamicResource styleBTN_Dark}" Grid.Column="0" Grid.Row="1" Margin="3"/>
+
+            <Button x:Name="btn0" Style="{DynamicResource styleBTN}" Grid.Column="1" Grid.Row="0" Margin="3"/>
+            <Button x:Name="btn1" Style="{DynamicResource styleBTN}" Grid.Column="1" Grid.Row="1" Margin="3"/>
+            <Button x:Name="btn2" Style="{DynamicResource styleBTN}" Grid.Column="1" Grid.Row="2" Margin="3"/>
+            <Button x:Name="btn3" Style="{DynamicResource styleBTN}" Grid.Column="1" Grid.Row="3" Margin="3"/>
+            <Button x:Name="btn4" Style="{DynamicResource styleBTN}" Grid.Column="2" Grid.Row="0" Margin="3"/>
+            <Button x:Name="btn5" Style="{DynamicResource styleBTN}" Grid.Column="2" Grid.Row="1" Margin="3"/>
+            <Button x:Name="btn6" Style="{DynamicResource styleBTN}" Grid.Column="2" Grid.Row="2" Margin="3"/>
+            <Button x:Name="btn7" Style="{DynamicResource styleBTN}" Grid.Column="2" Grid.Row="3" Margin="3"/>
+            <Button x:Name="btn8" Style="{DynamicResource styleBTN}" Grid.Column="3" Grid.Row="0" Margin="3"/>
+            <Button x:Name="btn9" Style="{DynamicResource styleBTN}" Grid.Column="3" Grid.Row="1" Margin="3"/>
+            <Button x:Name="btn10" Style="{DynamicResource styleBTN}" Grid.Column="3" Grid.Row="2" Margin="3"/>
+            <Button x:Name="btn11" Style="{DynamicResource styleBTN}" Grid.Column="3" Grid.Row="3" Margin="3"/>
+            <Button x:Name="btn12" Style="{DynamicResource styleBTN}" Grid.Column="4" Grid.Row="0" Margin="3"/>
+            <Button x:Name="btn13" Style="{DynamicResource styleBTN}" Grid.Column="4" Grid.Row="1" Margin="3"/>
+            <Button x:Name="btn14" Style="{DynamicResource styleBTN}" Grid.Column="4" Grid.Row="2" Margin="3"/>
+            <Button x:Name="btn15" Style="{DynamicResource styleBTN}" Grid.Column="4" Grid.Row="3" Margin="3"/>
+
+        </Grid>
+    </Grid>
+</Window>

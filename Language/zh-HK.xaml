@@ -1,0 +1,599 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+<!--對應文字-->
+    <sys:String x:Key="strSpeak">發音</sys:String>
+    <sys:String x:Key="strSymbol">常用符號</sys:String>
+    <sys:String x:Key="strCopy">複製</sys:String>
+    <sys:String x:Key="strPaste">貼上</sys:String>
+    <sys:String x:Key="strBell">呼叫</sys:String>
+    <sys:String x:Key="strClear">全部清除</sys:String>
+    <sys:String x:Key="strSpace">空白</sys:String>
+    <sys:String x:Key="strMenu">功能選單</sys:String>
+    <sys:String x:Key="strSearch">搜尋</sys:String>
+    <sys:String x:Key="strTC-Eng">中英切換</sys:String>
+    <sys:String x:Key="strNumber">數字</sys:String>
+
+    <sys:String x:Key="strClickSpeed">點擊速度</sys:String>
+    <sys:String x:Key="strOn">開啟</sys:String>
+    <sys:String x:Key="strOff">關閉</sys:String>
+    <sys:String x:Key="strOk">確認</sys:String>
+    <sys:String x:Key="strSec">秒</sys:String>
+
+    <sys:String x:Key="msgTrackerError">請連接支援的眼動裝置</sys:String>
+    <sys:String x:Key="msgNoEyeTracker">未偵測到眼動裝置</sys:String>
+    <sys:String x:Key="msgOverLimitTime">已過試用期間，如有問題請聯繫客服人員!</sys:String>
+    <sys:String x:Key="msgNoInternet">請連接網路後再開啟EYEPLAYER.</sys:String>
+
+    <!--Button預設功能-->
+    <ControlTemplate x:Key="btnTemplate" TargetType="{x:Type Button}">
+        <Grid Background="{TemplateBinding Background}"/>
+    </ControlTemplate>
+    <ControlTemplate x:Key="btnShowStringHover" TargetType="{x:Type Button}">
+        <Border Background="{TemplateBinding Background}"  BorderBrush="Black" BorderThickness="3">
+            <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        </Border>
+    </ControlTemplate>
+    <ControlTemplate x:Key="btnTTSHover" TargetType="{x:Type Button}">
+        <Border Background="{TemplateBinding Background}" BorderBrush="#FF1AAFC7" BorderThickness="1" TextElement.Foreground="White">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+    </ControlTemplate>
+    <ControlTemplate x:Key="btnBtnHover" TargetType="{x:Type Button}">
+        <Border Background="{TemplateBinding Background}" >
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+    </ControlTemplate>
+
+    <!-- 溝通板選字按鈕STYLE-->
+    <Style x:Key="styleBTN_Lit" TargetType="Button">
+        <Setter Property="Background" Value="#FF636A7C"/>
+        <Setter Property="Foreground" Value="#FFFFFFFF"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontFamily" Value="Moderator"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background" Value="#FF54BFC9"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleBTN" TargetType="Button">
+        <Setter Property="Background" Value="#FF454753"/>
+        <Setter Property="Foreground" Value="#FF8F8F8F"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontFamily" Value="Moderator"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background" Value="#FF54BFC9"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleBTN_Dark" TargetType="Button">
+        <Setter Property="Background" Value="#FF393C46"/>
+        <Setter Property="Foreground" Value="#FF8F8F8F"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontFamily" Value="Moderator"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background" Value="#FF54BFC9"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="styleBtnOK" TargetType="Button">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#FF686868"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnBtnHover}"/>
+                <Setter Property="Background" Value="Transparent"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="FontFamily" Value="Verdana"/>
+                <Setter Property="FontSize" Value="60" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <!-- 設定開關STYLE-->
+    <Style x:Key="styleBtnON" TargetType="Button">
+        <Setter Property="Background" Value="#FF1C1A1B"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background" Value="#FF1C1A1B"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleBtnOFF" TargetType="Button">
+        <Setter Property="Background" Value="#FFCBC9C9"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background" Value="#FF1C1A1B"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    
+    <!-- 溝通板功能按鈕STYLE-->
+    <Style x:Key="styleBTN_1" TargetType="Button">
+        <Setter Property="Background" Value="#FF515151"/>
+        <Setter Property="Foreground" Value="#FF919191"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background" Value="#FF1C1A1B"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    
+    <!-- 溝通板對話框-->
+    <Style x:Key="styleShowString" TargetType="Button">
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="60" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="BorderBrush" Value="#FF515151"/>
+        <Setter Property="BorderThickness" Value="3"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Template" Value="{StaticResource btnShowStringHover}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleShowString_1" TargetType="Button">
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="20" />
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="BorderBrush" Value="#FF515151"/>
+        <Setter Property="BorderThickness" Value="3"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Template" Value="{StaticResource btnShowStringHover}"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+
+    <ImageBrush x:Key="imgMenuBg" ImageSource="../Language/Imgs/Main/background.png"/>
+    
+<!--Home Page-->
+    <ImageBrush x:Key="imgBell" ImageSource="../Language/Imgs/Main/bell.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgDoubleClick" ImageSource="../Language/Imgs/Main/dClick.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgKeyboard" ImageSource="../Language/Imgs/Main/keyboard.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgCalibrate" ImageSource="../Language/Imgs/Main/imgCalibrate.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgRight" ImageSource="../Language/Imgs/Main/right.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgPause" ImageSource="../Language/Imgs/Main/pause.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgScroll" ImageSource="../Language/Imgs/Main/scroll.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSetting" ImageSource="../Language/Imgs/Main/setting.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSpeak" ImageSource="../Language/Imgs/Main/speak.png" Stretch="Uniform"/>
+
+    <ImageBrush x:Key="imgBellH" ImageSource="../Language/Imgs/Main/bellH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgDoubleClickH" ImageSource="../Language/Imgs/Main/dClickH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgKeyboardH" ImageSource="../Language/Imgs/Main/keyboardH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgCalibrateH" ImageSource="../Language/Imgs/Main/imgCalibrateH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgRightH" ImageSource="../Language/Imgs/Main/rightH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgPauseH" ImageSource="../Language/Imgs/Main/pauseH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgScrollH" ImageSource="../Language/Imgs/Main/scrollH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSettingH" ImageSource="../Language/Imgs/Main/settingH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSpeakH" ImageSource="../Language/Imgs/Main/speakH.png" Stretch="Uniform"/>
+
+    <ImageBrush x:Key="imgSleep" ImageSource="../Language/Imgs/Main/sleep.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSleepH" ImageSource="../Language/Imgs/Main/sleepH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrBack" ImageSource="../Language/Imgs/Main/srBack.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrChangeSide" ImageSource="../Language/Imgs/Main/srChangeSide.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrClick" ImageSource="../Language/Imgs/Main/srClick.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrScroll" ImageSource="../Language/Imgs/Main/srScroll.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrEnter" ImageSource="../Language/Imgs/Main/srEnter.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrPaste" ImageSource="../Language/Imgs/Main/srPaste.png" Stretch="Uniform"/>
+
+    <ImageBrush x:Key="imgSrBackH" ImageSource="../Language/Imgs/Main/srBackHover.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrChangeSideH" ImageSource="../Language/Imgs/Main/srChangeSideHover.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrClickH" ImageSource="../Language/Imgs/Main/srClickHover.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrScrollH" ImageSource="../Language/Imgs/Main/srScrollHover.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrEnterH" ImageSource="../Language/Imgs/Main/srEnterH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrPasteH" ImageSource="../Language/Imgs/Main/srPasteH.png" Stretch="Uniform"/>
+
+    <ImageBrush x:Key="imgDrag" ImageSource="../Language/Imgs/Main/drag.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgDragH" ImageSource="../Language/Imgs/Main/dragH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrDrag" ImageSource="../Language/Imgs/Main/srDrag.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrDragH" ImageSource="../Language/Imgs/Main/srDragH.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrClickDrag" ImageSource="../Language/Imgs/Main/srClickD.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgSrClickDragH" ImageSource="../Language/Imgs/Main/srClickDH.png" Stretch="Uniform"/>
+
+    <Style x:Key="styleSrClickDrag" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrClickDrag}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrClickDragH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrDrag" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrDrag}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrDragH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleDrag" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgDrag}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgDragH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleCalibrate" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgCalibrate}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgCalibrateH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrPaste" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrPaste}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrPasteH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrBack" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrBack}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrBackH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrChangeSide" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrChangeSide}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrChangeSideH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrClick" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrClick}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrClickH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrScroll" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrScroll}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrScrollH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSrEnter" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSrEnter}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSrEnterH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSleep" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSleep}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSleepH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+
+    <Style x:Key="styleBell" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgBell}"/>          
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgBellH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleDoubleClick" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgDoubleClick}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgDoubleClickH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleKeyborad" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgKeyboard}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgKeyboardH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleRight" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgRight}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgRightH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="stylePause" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgPause}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgPauseH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleScroll" TargetType="{x:Type Button}" >
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgScroll}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgScrollH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSetting" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSetting}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSettingH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleSpeak" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSpeak}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSpeakH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <ImageBrush x:Key="imgBtnLock" ImageSource="../Language/Imgs/Main/lock.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgBtnUnlock" ImageSource="../Language/Imgs/Main/unlock.png" Stretch="Uniform"/>
+    <Style x:Key="styleLock" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgBtnLock}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgBtnUnlock}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    
+<!-- TextSpeak page-->
+    <ImageBrush x:Key="imgBack" ImageSource="../Language/Imgs/Talk/back.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgTextLeft" ImageSource="../Language/Imgs/Talk/left.png"/>
+    <ImageBrush x:Key="imgTextRight" ImageSource="../Language/Imgs/Talk/right.png"/>
+    <ImageBrush x:Key="imgBackH" ImageSource="../Language/Imgs/Talk/backH.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgTextLeftH" ImageSource="../Language/Imgs/Talk/leftH.png"/>
+    <ImageBrush x:Key="imgTextRightH" ImageSource="../Language/Imgs/Talk/rightH.png"/>
+    <Style x:Key="styleTextRight" TargetType="{x:Type Button}">
+        <Setter Property="Background" Value="{StaticResource imgTextRight}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background"  Value="{StaticResource imgTextRightH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleTextLeft" TargetType="{x:Type Button}">
+        <Setter Property="Background" Value="{StaticResource imgTextLeft}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background"  Value="{StaticResource imgTextLeftH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleBack" TargetType="{x:Type Button}">
+        <Setter Property="Background" Value="{StaticResource imgBack}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Template" Value="{StaticResource btnTTSHover}"/>
+                <Setter Property="Background"  Value="{StaticResource imgBackH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    
+    <!--setting page -->
+    <ImageBrush x:Key="imgSettingIndex" ImageSource="../Language/Imgs/Setting/index.jpg"/>
+    <ImageBrush x:Key="imgSettingBg" ImageSource="../Language/Imgs/Setting/bgTW.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgSave" ImageSource="../Language/Imgs/Setting/imgSaveTW.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgSaveH" ImageSource="../Language/Imgs/Setting/imgSaveTW_H.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgCancel" ImageSource="../Language/Imgs/Setting/imgCancelTW.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgCancelH" ImageSource="../Language/Imgs/Setting/imgCancelTW_H.png" Stretch="Fill"/>
+    <ImageBrush x:Key="imgEyeCtl" ImageSource="../Language/Imgs/Setting/imgEye.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgEyeCtlH" ImageSource="../Language/Imgs/Setting/imgEye_H.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgBtnCtl" ImageSource="../Language/Imgs/Setting/imgBtn.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgBtnCtlH" ImageSource="../Language/Imgs/Setting/imgBtn_H.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgPlus" ImageSource="../Language/Imgs/Setting/imgPlus.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgPlusH" ImageSource="../Language/Imgs/Setting/imgPlus_H.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgMinus" ImageSource="../Language/Imgs/Setting/imgMinus.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgMinusH" ImageSource="../Language/Imgs/Setting/imgMinus_H.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgArrow" ImageSource="../Language/Imgs/Setting/imgArrow.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgArrowH" ImageSource="../Language/Imgs/Setting/imgArrow_H.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgPoint" ImageSource="../Language/Imgs/Setting/imgPoint.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="imgPointH" ImageSource="../Language/Imgs/Setting/imgPoint_H.png" Stretch="Uniform"/>
+
+    <ControlTemplate x:Key="btnImgHover" TargetType="{x:Type Button}">
+        <Border Background="{TemplateBinding Background}">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+    </ControlTemplate>
+
+    <Style x:Key="styleSave" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgSave}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgSaveH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleCancel" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgCancel}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgCancelH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleEyeCtl" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgEyeCtl}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgEyeCtlH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleBtnCtl" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgBtnCtl}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgBtnCtlH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="stylePlus" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgPlus}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgPlusH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleMinus" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgMinus}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgMinusH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="styleArrow" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgArrow}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgArrowH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="stylePoint" TargetType="{x:Type Button}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="Background" Value="{StaticResource imgPoint}"/>
+        <Setter Property="Template" Value="{StaticResource btnTemplate}"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background"  Value="{StaticResource imgPointH}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <!--style loading-->
+    <ImageBrush x:Key="load0_0" ImageSource="../Language/Imgs/Loading_0/0.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load0_1" ImageSource="../Language/Imgs/Loading_0/1.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load0_2" ImageSource="../Language/Imgs/Loading_0/2.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load0_3" ImageSource="../Language/Imgs/Loading_0/3.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load0_4" ImageSource="../Language/Imgs/Loading_0/4.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load0_5" ImageSource="../Language/Imgs/Loading_0/5.png" Stretch="Uniform"/>
+    <!--style loading-->
+    <ImageBrush x:Key="load1_0" ImageSource="../Language/Imgs/Loading_1/0.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_1" ImageSource="../Language/Imgs/Loading_1/1.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_2" ImageSource="../Language/Imgs/Loading_1/2.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_3" ImageSource="../Language/Imgs/Loading_1/3.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_4" ImageSource="../Language/Imgs/Loading_1/4.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_5" ImageSource="../Language/Imgs/Loading_1/5.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_6" ImageSource="../Language/Imgs/Loading_1/6.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_7" ImageSource="../Language/Imgs/Loading_1/7.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_8" ImageSource="../Language/Imgs/Loading_1/8.png" Stretch="Uniform"/>
+    <ImageBrush x:Key="load1_9" ImageSource="../Language/Imgs/Loading_1/9.png" Stretch="Uniform"/>
+    
+</ResourceDictionary>

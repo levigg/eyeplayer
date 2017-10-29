@@ -1,0 +1,20 @@
+﻿<Window x:Class="Eyeplayer.CursorControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CursorControl" 
+        Background="Transparent"
+        WindowStyle="None" 
+        Topmost="True"
+        AllowsTransparency="True" 
+        WindowState="Maximized" Loaded="Window_Loaded" MouseMove="Window_MouseMove" IsHitTestVisible="False"
+        >
+    <Grid>
+        <Canvas Name="canvas">
+            <!--<Image x:Name="imgCursorLoading" Width="100" Height="100" Stretch="Fill" Visibility="Hidden"/>-->
+            <!--<Image x:Name="SelectLoading"  Width="200" Height="200" Stretch="Fill" Visibility="Hidden"/>-->
+            <Ellipse Name="EyeControlPoint" Canvas.Top="50" Canvas.Left="50" Fill="Gold"  Height="50" Width="50" StrokeThickness="0" Stroke="#FFFFFFFF" Opacity="0.2" Visibility="Hidden" />
+        </Canvas>
+        <Canvas Name="cvPiePiece"/>
+    </Grid>
+
+</Window>

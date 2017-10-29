@@ -1,0 +1,32 @@
+﻿<Window x:Class="Eyeplayer.StayResidentFunction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StayResidentFunction" WindowState="Maximized" WindowStyle="None"
+        Background="Transparent" AllowsTransparency="True" Topmost="True"
+        >
+    <Grid Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="150*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="900*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="150*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="60*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200*"/>
+            <RowDefinition Height="160*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="120*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="160*"/>
+            <RowDefinition Height="200*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="srClick" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="1" Style="{DynamicResource styleSrClick}" Margin="6,6.275,6,5.725" />
+        <Button x:Name="srChangeSide" Grid.Column="2" Grid.Row="3" Style="{DynamicResource styleSrChangeSide}" Margin="6,6.284,6,5.716"/>
+        <Button x:Name="srBack" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="5" Style="{DynamicResource styleSrBack}" Margin="6,6.284,6,5.716"/>
+    </Grid>
+</Window>

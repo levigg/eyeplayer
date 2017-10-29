@@ -1,0 +1,23 @@
+﻿<Window x:Class="Eyeplayer.Click_visualKeyborad"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Click_visualKeyborad" AllowsTransparency="True" 
+        WindowStyle="None"
+        Background="Transparent" 
+        WindowState="Maximized"
+        >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="240*"/>
+            <RowDefinition Height="200*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="imgCapture" Grid.Column="1" Grid.Row="1" Stretch="Fill"  MouseLeave="imgCapture_MouseLeave" MouseEnter="imgCapture_MouseEnter"  />
+        <Rectangle x:Name="rect" Grid.Column="1" Grid.Row="1" Stretch="Fill" StrokeThickness="6" Stroke="#FF1AAFC7"/>
+    </Grid>
+</Window>

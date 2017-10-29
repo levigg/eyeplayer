@@ -1,0 +1,36 @@
+﻿<Window x:Class="Eyeplayer.TextEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextEdit" 
+        WindowState="Maximized"
+        WindowStyle="None"
+        Background="#FF2F2E3C" 
+        Loaded="Window_Loaded" Closing="Window_Closing" 
+        >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="zone_1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="btnSwitch" Grid.Column="0" Grid.Row="2" Margin="3" Style="{DynamicResource styleSrScroll}"  />
+            <Button x:Name="btnOK" Grid.Column="0" Grid.Row="4" Margin="3" Style="{DynamicResource styleSpeak}"  />
+            <Button x:Name="btnBack" Grid.Row="0" Margin="3" Style="{DynamicResource styleBack}"  />
+        </Grid>
+        <Grid x:Name="zone_0" Grid.Column="0">
+            <ScrollViewer x:Name="textScrollViewer" CanContentScroll="True" >
+                <Canvas x:Name="canvasWords" />
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+
+</Window>

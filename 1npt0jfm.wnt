@@ -1,0 +1,388 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace Eyeplayer
+{
+    /// <summary>
+    /// Interaction logic for TextSpeak_symbol.xaml
+    /// </summary>
+    public partial class TextSpeak_symbol : Window
+    {
+        System.Windows.Controls.UIElementCollection controlList;
+        List<System.Windows.FrameworkElement> btnZone2, btnZone0, btnZone1;
+        TextToSpeech TTS;
+        public State state = State.symbol_usual;
+        public enum State
+        {
+            zh_TW = 0,
+            zh_CN = 0,
+            en_US = 1,
+            num = 2,
+            function = 3,
+            symbol_usual = 4,
+        }
+        public TextSpeak_symbol()
+        {
+            InitializeComponent();
+            TTS = new TextToSpeech();
+        }
+        public DateTime[] ctsStartTime;
+        public double[] ctsTotalTime;
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Resources.MergedDictionaries.Count > 0) Resources.MergedDictionaries.Clear();
+            Resources.MergedDictionaries.Add(Global.m_resDic);
+
+            btnZone0 = new List<FrameworkElement>();
+            controlList = this.gridZone0.Children;
+            foreach (System.Windows.FrameworkElement ct in controlList)
+            {
+                btnZone0.Add(ct);
+                if (ct.Name != "textScrollView")
+                    ((Button)ct).FontSize = 50 / Global.ScreenSize;
+                else
+                    strLab.FontSize = 60 / Global.ScreenSize;
+            }
+            btnZone1 = new List<FrameworkElement>();
+            controlList = this.gridZone1.Children;
+            foreach (System.Windows.FrameworkElement ct in controlList)
+            {
+                btnZone1.Add(ct);
+                ((Button)ct).FontSize = 50/Global.ScreenSize;
+            }
+            btnZone2 = new List<FrameworkElement>();
+            controlList = this.gridZone2.Children;
+            foreach (System.Windows.FrameworkElement ct in controlList)
+            {
+                btnZone2.Add(ct);
+                ((Button)ct).FontSize = 50/Global.ScreenSize;
+            }
+            ctsStartTime = new DateTime[btnZone0.Count + btnZone1.Count + btnZone2.Count];
+            ctsTotalTime = new double[btnZone0.Count + btnZone1.Count + btnZone2.Count];
+            foreach (FrameworkElement ct in btnZone0)
+            {
+                ct.MouseEnter += new System.Windows.Input.MouseEventHandler(btnMouseEnterZone0);
+                ct.MouseLeave += new MouseEventHandler(btnMouseLeave);
+                if (ct.Name != "textScrollView")
+                {
+                    ((Button)ct).Content = "";
+                    ((System.Windows.Controls.Button)ct).Click += new RoutedEventHandler(btnMouseZone0Click);
+                }
+                else
+                {
+                    ct.MouseUp += new MouseButtonEventHandler(btnMouseZone0Click);
+                    strLab.MouseUp += new MouseButtonEventHandler(btnMouseZone0Click);
+                }
+            }
+            foreach (FrameworkElement ct in btnZone2)
+            {
+                ct.MouseEnter += new System.Windows.Input.MouseEventHandler(btnMouseEnterZone2);
+                ct.MouseLeave += new MouseEventHandler(btnMouseLeave);
+                ((System.Windows.Controls.Button)ct).Click += new RoutedEventHandler(btnZone2MouseClick);
+            }
+
+            if (Global.TTSSelectIndex > 0) strLab.Content = Global.strTTS.Substring(0, Global.TTSSelectIndex);
+            else strLab.Content = "";
+            strLab.Content += "|";
+            if (Global.strTTS.Length > Global.TTSSelectIndex) strLab.Content += Global.strTTS.Substring(Global.TTSSelectIndex);
+            textScrollView.ScrollToHorizontalOffset(Global.TTSSelectIndex * strLab.FontSize / 2);
+            changeBtnContent();
+        }
+        public void CheckBtnDuringTime()
+        {
+            for (int i = 0; i < ctsStartTime.Length; i++)
+            {
+                if ((DateTime.Now - ctsStartTime[i]).TotalMilliseconds > Global.clickSpeed * 3 && ctsTotalTime[i] > 0)
+                {
+                    ctsTotalTime[i] = 0;
+                    ctsStartTime[i] = DateTime.Now;
+                }
+            }
+            if (!Global.cursorControl.isBtnLoading) return;
+            ctsTotalTime[lastBtnSelect] += (DateTime.Now - lastBtnEnterTime).TotalMilliseconds;
+
+            lastBtnEnterTime = DateTime.Now;
+        }
+        public void ClearBtnDuringTime()
+        {
+            for (int i = 0; i < ctsStartTime.Length; i++)
+            {
+                ctsTotalTime[i] = 0;
+                ctsStartTime[i] = DateTime.Now;
+            }
+        }
+        private void btnMouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            Global.cursorControl.isBtnLoading = false;
+            if (((System.Windows.FrameworkElement)e.Source).Name == "textScrollView") ((ScrollViewer)(System.Windows.FrameworkElement)e.Source).Background = Brushes.White;
+        }
+        private int btnSelect(System.Windows.FrameworkElement fe)
+        {
+            for (int i = 0; i < btnZone0.Count; i++)
+                if (fe == btnZone0[i])
+                    return i;
+            for (int i = 0; i < btnZone1.Count; i++)
+                if (fe == btnZone1[i])
+                    return i + btnZone0.Count;
+            for (int i = 0; i < btnZone2.Count; i++)
+                if (fe == btnZone2[i])
+                    return i + btnZone0.Count + btnZone1.Count;
+            return -1;
+        }
+        DateTime lastBtnEnterTime = DateTime.Now;
+        public int lastBtnSelect;
+        private void btnMouseEnterZone0(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            lastBtnEnterTime = DateTime.Now;
+            lastBtnSelect = btnSelect((System.Windows.FrameworkElement)e.Source);
+            Global.cursorControl.SettingLoading((System.Windows.FrameworkElement)e.Source);
+            if (((System.Windows.FrameworkElement)e.Source).Name == "textScrollView") ((ScrollViewer)(System.Windows.FrameworkElement)e.Source).Background = Brushes.Gray;
+        }
+        private void btnMouseZone0Click(object sender, RoutedEventArgs e)
+        {
+            FrameworkElement ct = (FrameworkElement)e.Source;
+            switch (ct.Name)
+            {
+                case "textScrollView":
+                    if (strLab.Content.ToString() == "|") return;
+                    if (Global.textEdit == null)
+                    {
+                        Global.textEdit = new TextEdit();
+                        Global.textEdit.Show();
+                        this.Close();
+                    }
+                    break;
+                case "strLab":
+                    if (strLab.Content.ToString() == "|") return;
+                    if (Global.textEdit == null)
+                    {
+                        Global.textEdit = new TextEdit();
+                        Global.textEdit.Show();
+                        this.Close();
+                    }
+                    break;
+                case "btnBack":
+                    if (Global.strTTS != "" && strLab.Content.ToString().Split('|')[0].ToArray().Length > 0)
+                    {
+                        if (Global.TTSSelectIndex > 1) strLab.Content = Global.strTTS.Substring(0, Global.TTSSelectIndex - 1);
+                        else strLab.Content = "";
+                        strLab.Content += "|";
+                        if (Global.strTTS.Length > Global.TTSSelectIndex) strLab.Content += Global.strTTS.Substring(Global.TTSSelectIndex);
+                        Global.TTSSelectIndex--;
+                        textScrollView.ScrollToHorizontalOffset(Global.TTSSelectIndex * strLab.FontSize / 2);
+                        Global.strTTS = strLab.Content.ToString().Split('|')[0] + strLab.Content.ToString().Split('|')[1];
+                    }
+                    break;
+                case "btnSpeak":
+                    if (Global.strTTS != "" && !TTS.isSpeech)
+                        TTS.Say(Global.strTTS);
+                    break;
+            }
+        }
+        private void btnMouseEnterZone2(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            lastBtnEnterTime = DateTime.Now;
+            lastBtnSelect = btnSelect((System.Windows.FrameworkElement)e.Source);
+            if (((Button)(System.Windows.FrameworkElement)e.Source).Content == null && ((Button)(System.Windows.FrameworkElement)e.Source).Name != "btnSearch") return;
+            if (((Button)(System.Windows.FrameworkElement)e.Source).Name != "btnSearch")
+            {
+                if (((Button)(System.Windows.FrameworkElement)e.Source).Content.ToString() == "")
+                {
+                    Global.cursorControl.isBtnLoading = false;
+                    return;
+                }
+            }
+            Global.cursorControl.SettingLoading((System.Windows.FrameworkElement)e.Source);
+        }
+        private void btnZone2MouseClick(object sender, RoutedEventArgs e)
+        {
+            string name = ((Button)((System.Windows.FrameworkElement)e.Source)).Name;
+            switch (name)
+            {
+                case "btnNumber":
+                    state = State.num;
+                    break;
+                case "btnEnglish":
+                    state = State.en_US;
+                    break;
+                case "btnSearch":
+                    if (Global.strTTS != "")
+                    {
+                        doSearch(Global.strTTS);
+                        Global.clickState = Global.ClickState.oneClick;
+                        this.Close();
+                        System.Windows.Forms.Cursor.Show();
+                        Global.SRF = new StayResidentFunction();
+                        Global.SRF.Show();
+                        Global.cursorControl.cvPiePiece.Children.Clear();
+                    }
+                    break;
+                case "btnCopy":
+                    if (Global.strTTS.ToCharArray().Length > 1)
+                    {
+                        Clipboard.SetText(Global.strTTS);
+                        Global.clickState = Global.ClickState.copy;
+                        if (Global.copyPage == null)
+                        {
+                            Global.copyPage = new CopyPage();
+                            Global.copyPage.Show();
+                        }
+                        if (Global.SRP == null)
+                        {
+                            Global.SRP = new StayResidentPaste();
+                            Global.SRP.Show();
+                        }
+                        if (Global.clickPage == null) Global.clickPage = new Click();
+                        Global.cursorControl.cvPiePiece.Children.Clear();
+                        if (Global.clickPage == null)
+                        {
+                            Global.clickPage = new Click();
+                            Global.clickPage.Show();
+                        }
+                        this.Close();
+                        Global.tsSymbol = null;
+                        System.Windows.Forms.Cursor.Show();
+                        return;
+                    }
+                    break;
+                case "btnBackMenu":
+                    Global.cursorControl.cvPiePiece.Children.Clear();
+                    Global.backMenu();
+                    break;
+                case "btnSymbol_usual":
+                    state = State.symbol_usual;
+                    break;
+                case "btnSpeak":
+                    if (Global.strTTS != "" && !TTS.isSpeech)
+                        TTS.Say(Global.strTTS);
+                    break;
+                case "btnBell":
+                    if (System.IO.File.Exists(Environment.CurrentDirectory + @"\Sounds\help.mp3") && soundPlayer == null)
+                    {
+                        soundPlayer = new MediaPlayer();
+                        Uri path = new Uri(Environment.CurrentDirectory + @"\Sounds\help.mp3", UriKind.Relative);
+                        soundPlayer.Open(path);
+                        soundPlayer.Volume = 1;
+                        soundPlayer.MediaEnded += new EventHandler(HelpBellEnd);
+                        soundPlayer.Play();
+                        bellTimes = Global.helpBellTimes;
+                    }
+                    break;
+                case "btnClear":
+                    Global.strTTS = "";
+                    strLab.Content = "|";
+                    Global.TTSSelectIndex = 0;
+                    textScrollView.ScrollToRightEnd();
+                    break;
+                default:
+                    Keyin_Symbol(((Button)((System.Windows.FrameworkElement)e.Source)).Content.ToString());
+                    return;
+            }
+            changeBtnContent();
+        }
+        MediaPlayer soundPlayer;
+        int bellTimes = 0;
+        void HelpBellEnd(object sender, EventArgs e)
+        {
+            soundPlayer.Stop();
+            if (bellTimes > 1)
+            {
+                bellTimes--;
+                soundPlayer.Play();
+            }
+            else
+            {
+                soundPlayer.MediaEnded -= new EventHandler(HelpBellEnd);
+                soundPlayer.Close();
+                soundPlayer = null;
+            }
+        }
+        private void Keyin_Symbol(string str)
+        {
+            Global.strTTS = strLab.Content.ToString().Split('|')[0] + str;
+            string strA = strLab.Content.ToString().Split('|')[1];
+            strLab.Content = Global.strTTS + "|";
+            strLab.Content += strA;
+            Global.strTTS += strLab.Content.ToString().Split('|')[1];
+            Global.TTSSelectIndex++;
+            textScrollView.ScrollToHorizontalOffset(Global.TTSSelectIndex * strLab.FontSize / 2);
+        }
+
+        public void changeBtnContent()
+        {
+            switch (state)
+            {
+                case State.zh_TW:
+                    Global.textSpeak = new TextSpeak();
+                    Global.textSpeak.state = TextSpeak.State.zh_TW;
+                    Global.textSpeak.Show();
+                    this.Close();
+                    Global.tsSymbol = null;
+                    break;
+                case State.en_US:
+                    Global.textSpeak = new TextSpeak();
+                    Global.textSpeak.Show();
+                    Global.textSpeak.state = TextSpeak.State.en_US;
+                    Global.textSpeak.changeBtnContent();
+                    this.Close();
+                    Global.tsSymbol = null;
+                    break;
+                case State.num:
+                    Global.textSpeak = new TextSpeak();
+                    Global.textSpeak.Show();
+                    Global.textSpeak.state = TextSpeak.State.num;
+                    Global.textSpeak.changeBtnContent();
+                    this.Close();
+                    Global.tsSymbol = null;
+                    break;
+                case State.symbol_usual:
+                    //.  ， 、 。 ！ ？ ＆ ＠ ： ； ＋ － ＊ / ＝ ~
+                    btn0.Content = ".";
+                    btn1.Content = "，";
+                    btn2.Content = "、";
+                    btn3.Content = "。";
+                    btn4.Content = "！";
+                    btn5.Content = "？";
+                    btn6.Content = "＆";
+                    btn7.Content = "＠";
+                    btn8.Content = "：";
+                    btn9.Content = "；";
+                    btn10.Content = "＋";
+                    btn11.Content = "－";
+                    btn12.Content = "＊";
+                    btn13.Content = "/";
+                    btn14.Content = "＝";
+                    btn15.Content = "~";
+                    break;
+            }
+        }
+        private void doSearch(string keyword)
+        {
+            if (keyword.ToCharArray().Length > 4)
+            {
+                if (keyword.Substring(0, 4) == "http" || keyword.Substring(0, 3) == "www.")
+                {
+                    System.Diagnostics.Process.Start(keyword);
+                    return;
+                }
+            }
+            System.Diagnostics.Process.Start("http://www.google.com.tw/search?hl=en&q=" + keyword + "&meta=");
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
+    }
+}
